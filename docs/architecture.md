@@ -134,7 +134,7 @@ Represents how efficiently a system realizes its theoretical productive potentia
 
 Represents the degree to which a system can satisfy required demand under its available capacity constraints. Measures the percentage of demand that can be satisfied by available capacity.
 
-*`feasibility% =  potential_capacity - overhead_loss / demand * 100`*
+*`feasibility% =  ((potential_capacity - overhead_loss) / demand) * 100`*
 
 | Value | Meaning                  |
 | ----- | ------------------------ |
