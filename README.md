@@ -32,6 +32,10 @@ Formalization, stochastic modeling, and optimization layers are not yet included
 
 ---
 
-## Architecture
+## Documentation
 
-See `docs/architecture.md` for the current architectural specification.
+* [**Model Overview**](./docs/model-overview.md) — An overview of major concepts and definitions
+* [**Architecture**](./docs/architecture.md) — A breakdown of model architecture in terms of viewpoints
+* [**(AGR) *Potential Yield***](./docs/functions/agriculture/potential_yield.md) — Function for projecting a select crops caloric yield over a single mature harvest cycle based on arable area
+* [**(AGR) *Crop Benchmarks***](./docs/data/agriculture/crop-benchmarks.md) — Normalized crop benchmarks relevant to potential yield (*AGR*) usage
+
