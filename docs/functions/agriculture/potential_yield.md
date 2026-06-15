@@ -1,6 +1,17 @@
-# Potential Yield
+# (AGR) Potential Yield
 
 **Purpose:** To give a projected caloric yield of a single mature harvest cycle for a select crop based on arable area.
+
+---
+
+## Formula
+
+*`Y = A × D × K`*
+
+* *Y* — Caloric yield (kcal)
+* *A* — Arable area (sqft)
+* *D* — Yield density (lb/sqft)
+* *K* — Crops kilocaloric density (kcal/lb)
 
 ---
 
@@ -73,17 +84,6 @@ potential_yield(
 ---
 
 ## Notes
-
-**Formal Example**
-
-*`Y = A x D x K`*
-
-* *Y* — Caloric yield (kcal)
-* *A* — Arable area (sqft)
-* *D* — Yield density (lb/sqft)
-* *K* — Crops kilocaloric density (kcal/lb)
-
----
 
 **Crop Profile Implementation Example**
 
